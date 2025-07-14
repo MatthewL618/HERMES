@@ -10,10 +10,10 @@ This repository houses a predictive model trained on a vast set of material data
 **Key Features**
 
 
-Machine Learning Model: A robust ML model for the accurate prediction of formation energies of HEAs.
+**Machine Learning Model**: A robust ML model for the accurate prediction of formation energies of HEAs.
 
-High Entropy Alloy Screening: Enables rapid screening of HEA compositions for potential candidates with desired properties.
+**High Entropy Alloy Screening**: Enables rapid screening of HEA compositions for potential candidates with desired properties.
 
-Data-Driven Approach: Trained on a large dataset of known HEAs, the model uses correlations between composition and formation energy to make predictions.
+**Data-Driven Approach**: Trained on a large dataset of known HEAs, the model uses correlations between composition and formation energy to make predictions.
 
-Open-Source: Open access to the model and scripts for use, modification, and contribution.
+**Open-Source**: Open access to the model and scripts for use, modification, and contribution.
